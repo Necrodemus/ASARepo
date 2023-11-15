@@ -1,0 +1,58 @@
+{
+  "WBUI2": {
+    "settings": {
+      "OpenButton": 0,
+      "HideIcon": true,
+      "HideIconAfter": 60,
+      "IconURL": "https://cdn.discordapp.com/attachments/1092971507006853170/1092971636950585495/AG_Shield64x64.png",
+      "DisableIconText": false,
+      "IconPosition": 0,
+      "IconTextColor": 1,
+      "OpenOnStart": true,
+      "OpenOnStartOnlyNewPlayers": true,
+      "UpdateInterval": 12
+    },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 2,
+          "buttontext": "Welcome",
+          "title1": "Welcome to Addicted Games:",
+          "text1": "Welcome to the Addicted Games Server Community.\n\nWe hope you enjoy your stay with use.\n\nPlease consider join our discord using the button.\n\nA bit about us.\n\nAddicted Games is all about the community gaming experience, fun, and building lasting bonds with one another.\n\nWe started as a rag tag bunch of gamers from different backgrounds, meeting on different games and servers. As server groups do we have since moved on to other games but held on to those bonds. As a group of adult gamers, we've dedicated ourselves to one goal.\n\nLets have fun, together.",
+          "title2": "Mods:",
+          "text2": "AlfaOceanic Plataforms\nAutomated Ark\nBetter Chat\nBetterTranqs\nCliffPlatforms\nCustom Dino Levels\nCrazys Crazy Ascended Potions\nCryopods\nDeath Inventory Keeper\nEasy mutations\nEgg Collector\nGaia: Fishery\nGryphons\nK+ ASA\nKlinger Additional Structures\nmaewings\nMagic Treat\nPotions Helpers\nRockdrakes\nSnowOwls\nSqaw's Flyers\nSuper Spyglass Plus\nTeleporter_ASA\nTG Stacking Mod 10000-90\nUtilities Plus\nWBUI2",
+          "imageurl": "https://cdn.discordapp.com/attachments/1021856827371175976/1079881553875833032/AGLogoNew.png"
+        }
+      },
+      {
+        "tab2": {
+          "layout": 1,
+          "buttontext": "Rules",
+          "title1": "Addicted Games: ASA Rules",
+          "text1": "Rules\n1. Don't be a dick\n2. Please be in the same tribe on all servers in the cluster.\n3. There is plenty of room to build please be sure to be out of render range of other players when picking a base.\n4. Do Not Mesh/Cheat. Anyone That Is Caught Doing This, Will Be Banned Without Warning.\n5. Sell / Trading of non-nuetered, mutated, dinos is not permitted.\n6. Owners/Admins Will Not Replace Items Or Dinos That Are Lost.\n7. No Phishing, Advertising or PM'ing Other Members Of This Cluster With Other Discords Or Clusters.\n8. All Taming Traps Must Be Unlocked Or Remove it After Use.\n9. Always Have Fun, Enjoy The Game & Be Respectful To Every Member.\n10. ASA Servers are a WIP. Admins will replace absolutely nothing that disappears nor will assist in corpse recovery. You have been warned. Play at your own risk.\n\nAddendum:\nSome people have questioned what is a reasonable base size.\n1. The main struct should be able to fit in a 20 x 20 with unused dino's stored in cryo / storage.\n2. DO NOT PILLAR SPAM. Failure to adhere to this will result in a full tribe / player wipe.\n3. As ASA is still a WIP so is the functioning of the server. If there are times were a mod or map is not working we appreciate notification however make note of the ASA Disclaimer.\n4. Limit of one base per tribe per map.\n\nASA Disclaimer:\nCurrently ASA and associated mods is in a state of flux and is quite volatile. What does this mean? Mods / Admin will not be supporting issues revolving around anything disappearing or simply not working. Simply put, until further notice play at your own risk. If the idea of things disappearing is not your bag I would suggest playing on Survival Evolved until more game and mod support is available.",
+          "imageurl": "https://cdn.discordapp.com/attachments/1021856827371175976/1079881553875833032/AGLogoNew.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord",
+          "url": "https://discord.gg/wZnWK3Dk5C"
+        }
+      },
+      {
+        "link2": {
+          "text": "Support Us",
+          "url": "https://addicted-games.tebex.io/category/ark-sa"
+        }
+      },
+      {
+        "link3": {
+          "text": "Donate",
+          "url": "https://paypal.me/addictedgamesservers"
+        }
+      }
+    ]
+  }
+}
