@@ -20,7 +20,7 @@
           "title1": "Welcome to Addicted Games:",
           "text1": "Welcome to the Addicted Games Server Community.\n\nWe hope you enjoy your stay with use.\n\nPlease consider join our discord using the button.\n\nA bit about us.\n\nAddicted Games is all about the community gaming experience, fun, and building lasting bonds with one another.\n\nWe started as a rag tag bunch of gamers from different backgrounds, meeting on different games and servers. As server groups do we have since moved on to other games but held on to those bonds. As a group of adult gamers, we've dedicated ourselves to one goal.\n\nLets have fun, together.\nTo open the in-game store press F3 for PC or Radial Menu for Console",
           "title2": "Mods:",
-          "text2": "Alfa Oceanic Plataforms\nArchelon\nAutomated Ark\nBetter Chat\nBetter Tranqs\nCeratosarus\nCliffPlatforms\nCrazy's Crazy Ascended Potions\nCustom Dino Levels\nDeath Inventory Keeper\nDeinosuchus\nDwarven Builders\nEasy Mutations\nEgg Collector\nGryphons\nK+ Asa\nKlinger Additional Structures\nmaewings\nMagic Treat\nMX-E ArkShop UI\nPelayori's Cryo Storage\nPotions Helper\nResource Gatherers\nRockdrakes\nSnowOwls\nSqaw's Flyers\nSuper Spyglass Plus\nTeleporter_Asa\nTG Stacking Mod 10000-90\nUtilities Plus\nWBUI2",
+          "text2": "Alfa Oceanic Plataforms\nArchelon\nArkitect Remastered\nAutomated Ark\nBetter Chat\nBangin Tranqs\nCeratosarus\nCliffPlatforms\nCrazy's Crazy Ascended Potions\nCustom Dino Levels\nDeath Inventory Keeper\nDeinosuchus\nDwarven Builders\nEasy Mutations\nEgg Collector\nEternal Feeder\nGryphons\nK+ Asa\nKlinger Additional Structures\nKlinger Rustic Structures\nmaewings\nMagic Treat\nMX-E ArkShop UI\nPelayori's Cryo Storage\nPotions Helper\nResource Gatherers\nRockdrakes\nShiny! Dinos Ascended\nSnowOwls\nSqaw's Flyers\nSuper Spyglass Plus\nTeleporter_Asa\nTG Stacking Mod 10000-90\nUtilities Plus\nWBUI2",
           "imageurl": "https://cdn.discordapp.com/attachments/1021856827371175976/1079881553875833032/AGLogoNew.png"
         }
       },
@@ -51,6 +51,12 @@
         "link3": {
           "text": "Donate",
           "url": "https://paypal.me/addictedgamesservers"
+        }
+      },
+      {
+        "link4": {
+          "text": "Discord QR",
+          "url": "https://i.imgur.com/KhFUq2n.png"
         }
       }
     ]
